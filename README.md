@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+[大塘角_族歌](https://github.com/user-attachments/files/30031195/dtj.mp3?raw=true)
+
+
+<audio controls>
+  <source src="https://github.com/user-attachments/files/30031195/dtj.mp3" type="audio/mpeg">
+  您的浏览器不支持音频播放。
+</audio>
+
+
 You can use the [editor on GitHub](https://github.com/fjfei/fjfei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
